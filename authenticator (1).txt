@@ -1,0 +1,3 @@
+otpauth://totp/Google:starlight196826%40gmail.com?secret=acfkms2hhoyti35rnmlintpuirbrjmux&issuer=Google
+otpauth://totp/RedotPay:graylingmilitar37949%40outlook.com?secret=CTTPP7QKMJCYNK3TKLPJDHS6ZGXMLL56&issuer=RedotPay
+otpauth://totp/JETON:starlight196826%40gmail.com?secret=JQZFCTCUKEZEMTKQINFE4QSNKM2VSMSJKNLUYNBWGRFTEQZUKFLA&issuer=JETON
